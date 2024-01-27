@@ -1,0 +1,6 @@
+#66B2B2
+#598989 (a darker version of the previous)
+
+#f0f4f8
+white
+gray
