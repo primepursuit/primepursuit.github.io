@@ -1,5 +1,5 @@
 #8bacd9
-#273750  (a darker version of the previous)
+#273750 (a darker version of the previous)
 
 #f0f4f8
 white
