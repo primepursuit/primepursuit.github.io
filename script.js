@@ -1,0 +1,1 @@
+fetch("https://trafficcone.deno.dev")
